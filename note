@@ -1,0 +1,50 @@
+HTML Meaning
+	Hypertext markup language
+
+content
+	title - h1
+	text  - p
+	image - img
+	audio
+	video - video
+
+Why 
+
+version 
+	html1
+	html5
+
+
+
+How
+	element, tag, attribute name='value'
+
+	project folder - darazweb
+
+	folder + files - css + js + index.html - home
+
+	template
+		<!doctype html>
+		<html>
+			<head></head> - link - support
+			<body></body> - content
+		</html>
+
+	content
+		title  - h1, h2, h3, h4, h5, h6
+		text   - p
+		image  - img
+		link   - a
+		audio  - audio
+		video  - video
+		map
+
+
+	img - src - download / cdn
+
+
+	px - 
+
+
+	file path
+		
